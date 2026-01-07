@@ -1,4 +1,3 @@
-.
 
 🔐 CaseClarity – Auth Domain Service
 
